@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: L_ii1995@hotmail.com
 description: "Art and Tech are gorgeous."
 keyword: ""
-url: "L_ii.github.io"          # your host, for absolute URL
+url: "l_ii.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 timezone: CN
 
@@ -63,7 +63,7 @@ disqus_username: L_ii
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
